@@ -9,7 +9,8 @@ Rewriting standard packages provides a hands-on approach to learning how Golang 
 
 ## Packages
 
-- **strings**: Implementation of string manipulation functions such as `Contains`, `Count`, `HasPrefix`, `HasSuffix`, `Index`, and `Join`.
+- [**strings**](https://github.com/cauelz/golang-standard-packages-roadmap/blob/master/src/strings/strings.go)
+- [**unicode**](https://github.com/cauelz/golang-standard-packages-roadmap/tree/master/src/unicode)
 
 ## Goals
 
